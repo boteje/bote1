@@ -2,7 +2,7 @@
 Config and showcase repository for my GitHub profile.
 <div align="center">
 
-# 💫 Hi there, I'm <span style="color: #00adb5;">Your Name</span> 👋
+# 💫 Hi there, I'm <span style="color: #00adb5;">SUDARSHANA BOTEJUE</span> 👋
 ### 🚀 Full-Stack Developer | Tech Enthusiast | Open Source Explorer
 
 <p align="center">
